@@ -6,7 +6,8 @@ public class Loop {
 		// For loop//
 		for (int i = 0; i < 5; i++) {
 		    System.out.println("i = " + i);
-		}
+		}                              
+		
          //While loop//
 		int k = 0;
 
@@ -14,6 +15,8 @@ public class Loop {
 		    System.out.println("k = " + k);
 		    k++;
 		}
+		
+		
         //Do-while//
 		int j = 0;
 
